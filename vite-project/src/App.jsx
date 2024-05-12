@@ -10,8 +10,8 @@ function App() {
   //   console.log(e);
   //   alert("J'ai cliqué sur le titre");
   // };
-  const [count, setCount] = useState(0)
   //github
+  const [count, setCount] = useState(0)
 
   const increment = () => {
     setCount(count + 1)
